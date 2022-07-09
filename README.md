@@ -1,6 +1,9 @@
 ### Santander Bootcamp Fullstack Developer
 
-Atendendo ao programa proposto no Santander Bootcamp 2022, os desafios de códigos e projetos apresentados visam o aprimoramento numa jornada na trilha de Fullstack Developer.
+Pasta contendo desafios de projetos e exercícios relacionados ao trabalho desenvolvido pelo profissional Desenvolvedor Fullstack, com desenvolvimento de interfaces gráficas e projetos de desenvolvimento Front-End e Back-End.
+
+Atendendo ao programa proposto no Santander Bootcamp 2022, promovido e executado pela plataforma DIO, os desafios de códigos e projetos apresentados visam o aprimoramento numa jornada na trilha de Fullstack Developer.
+
 
 **Santander Bootcamp Fullstack Developer** (120hrs) - *Intermediario*
 
